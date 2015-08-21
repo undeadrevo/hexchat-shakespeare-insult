@@ -1,4 +1,3 @@
-#!/usr/bin/python2
 import hexchat
 import random
 __module_name__ = "shakespeare"
